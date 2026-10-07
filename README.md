@@ -70,7 +70,7 @@ Welcome to the definitive curated directory of **cloud resource management APIs*
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Terraform](https://github.com/hashicorp/terraform)** [![Stars](https://img.shields.io/github/stars/hashicorp/terraform?style=social&color=white)](https://github.com/hashicorp/terraform/stargazers) 🏗️  
   **Declarative Infrastructure as Code CLI tool**, BUSL-1.1 licensed. Enables building, changing, and versioning cloud infrastructure safely and efficiently across hundreds of public and private cloud providers.
